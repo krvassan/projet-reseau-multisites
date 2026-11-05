@@ -1,0 +1,7 @@
+Projet : Réseau d'entreprise multi-sites
+Étape : 0.12 - Premier test réseau
+Équipements : 2 VPCS et 1 Ethernet switch
+PC1 : 192.168.1.10/24
+PC2 : 192.168.1.20/24
+Résultat : Ping réussi
+Statut : VALIDÉ
